@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🏥 MedAnonymizer
@@ -33,7 +32,6 @@ French hospitals exchange **millions of medical documents daily**. Each document
 ## ⚡ The Solution
 
 **MedAnonymizer** is a production-grade NLP pipeline that automatically detects and redacts Personal Identifiable Information (PII) from French medical documents in **real-time**.
-
 ```
 ┌─────────────────────┐
 │  Medical Document   │
@@ -190,7 +188,6 @@ anonymized_doc = service.process(medical_report)
 ---
 
 ## 🔐 Security & Compliance
-
 ```yaml
 Data Handling:
   - Processing: In-memory only, no persistence
@@ -207,7 +204,6 @@ Certifications:
 ---
 
 ## 📦 Quick Start
-
 ```bash
 # Clone & Setup
 git clone https://github.com/samshad/medanonymizer
@@ -247,14 +243,10 @@ curl -X POST http://localhost:8000/anonymize \
 
 ### 🚀 Ready for Production Integration
 
-**Contact:** [Your Email] | **Demo:** [Live API Link] | **GitHub:** [Repository]
+**Contact:** sameerm1421999@gmail.com
 
 ---
 
 *Built with ⚡ by a ML Engineer who understands production healthcare systems*
 
 </div>
-```
-
----
-
